@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBoxP</string>
+    <string name="veg">Veg</string>
+    <string name="non_veg">Non-veg</string>
+</resources>

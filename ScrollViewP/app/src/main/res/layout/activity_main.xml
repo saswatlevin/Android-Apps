@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
+        <TableRow>
+            <ImageView
+                android:id="@+id/psom"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/gslv" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/gslv_intro"/>
+        </TableRow>
+
+        <TableRow>
+           <TextView
+               android:id="@+id/intro_para"
+               android:layout_width="wrap_content"
+               android:layout_height="match_parent"
+               android:text="@string/gslv_para_intro"/>
+        </TableRow>
+
+
+    </TableLayout>
+</ScrollView>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonRelativeLayout</string>
+    <string name="namebutton1">Button1</string>
+    <string name="namebutton2">Button2</string>
+</resources>
