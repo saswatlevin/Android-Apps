@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         NotificationCompat.Builder myBuilder = new NotificationCompat.Builder(this,CHANNEL_ONE_ID)
                 .setSmallIcon(R.drawable.ic_launcher_background)
                 .setContentTitle("my app's notification")
-                .setContentText("you got bank shit to deal with ")
+                .setContentText("you got notifications from the bank")
                 .setContentIntent(pendingIntent)
                 .setStyle(new NotificationCompat.BigTextStyle()
                         .bigText("Much longer text that cannot fit one line..."))
