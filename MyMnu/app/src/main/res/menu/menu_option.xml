@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:id="@+id/newm"
+        android:title="new" />
+    <Item android:id="@+id/open"
+        android:title="open"/>
+    <Item android:id="@+id/save"
+        android:title="save"/>
+</menu>

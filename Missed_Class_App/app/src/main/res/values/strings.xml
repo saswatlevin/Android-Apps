@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Missed_Class_App</string>
+    <string name="name_label_click">Name</string>
+    <string name="name_button_click">Click!</string>
+</resources>

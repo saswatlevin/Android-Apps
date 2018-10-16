@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxRelativeLay</string>
+    <string name="hindi">Hindi</string>
+    <string name="kannada">Kannada</string>
+    <string name="gender">Gender</string>
+    <string name="languages_known">Languages Known</string>
+    <string name="english">English</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

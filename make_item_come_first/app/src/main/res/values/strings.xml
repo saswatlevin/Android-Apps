@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">make_item_come_first</string>
+    <string name="listview">ListView</string>
+</resources>
